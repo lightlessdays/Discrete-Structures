@@ -1,35 +1,20 @@
 /*
-1. Take the input of n and r in floating type.
-2. Using CalcCombination(), calculate (n/r)*CalcCombination(n-1,r-1) recursively.
-3. Return to main and print the result in an integer type.
-4. Exit.
+ASAAN SOLUTION. FACTORIAL KA RECUSTION. NCR = N!/R!(N-R)!
 */
-
 #include<iostream>
- 
 using namespace std;
- 
-// A function to calculate combination using recurrence relation.
-float CalcCombination(float n, float r)
-{
-	int i, res;
-	if(r > 0)
-		return (n/r)*CalcCombination(n-1,r-1);
-	else 
-		return 1;
+int factorial(int n) {
+ if (n <= 1)
+     return 1;
+ else
+     return(n*(factorial(n-1)));
 }
- 
-int main()
-{
-	float n, r;
-	int result;
-	cout<<"A program to find combination from nCr format";
-	cout<<"\n\n\tEnter the value of n: ";
+
+int main(){
+	int n,r;
+	cout<<"ENTER n: ";
 	cin>>n;
-	cout<<"\tEnter the value of r: ";
+	cout<<"Enter r: ";
 	cin>>r;
- 
-	// Get result using recurrence relation.
-	result = CalcCombination(n,r);
-	cout<<"\nThe number of possible combinations is: "<<result;
+	cout<<"The value of nCr is: "<<(factorial(n)/(factorial(n-r)*factorial(r)));
 }

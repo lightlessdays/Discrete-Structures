@@ -1,4 +1,4 @@
-//Number of Asymmetric Relations in a set is 3^(N^2 – N)/2
+//Number of Asymmetric Relations in a set is 3(N2 – N)/2
 
 #include<iostream>
 #include <math.h>

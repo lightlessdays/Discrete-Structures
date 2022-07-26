@@ -9,5 +9,6 @@ int main() {
    int n;
    cout<<"Enter the nth term: ";
    cin>>n;
-   cout<<fibonacci(n);
+   for(int i=0;i<n;i++)
+       cout<<fibonacci(i)<<endl;
 }

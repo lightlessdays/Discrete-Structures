@@ -9,12 +9,7 @@ bool isMember(int element,int arr[],int n){
 } 
 
 void powerSet(int arr[],int n){
-    cout<<"{{},";
-    for(int i=0;i<n;i++){
-        for(int j=i;j<n;j++){
-            cout<<j;
-        }
-    }
+
     
 }
 

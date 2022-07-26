@@ -3,8 +3,8 @@
 ## Questions
 
 1. Write a program to create a SET A and determine the cardinality of SET for an input array of elements (repetition allowed) and perform the following operations on the SET:<br>
-(a) ismember (a, A): check whether an element belongs to set or not and return value as true/false.<br>
-(b) powerset A): list all the elements of power set of A.
+a) ismember (a, A): check whether an element belongs to set or not and return value as true/false.<br>
+b) powerset A): list all the elements of power set of A.
 
 2. Create a class SET and take two sets as input from user to perform following SET Operations:<br>
 a) Subset: Check whether one set is a subset of other or not.<br>

@@ -10,6 +10,11 @@ bool isMember(int element,int arr[],int n){
 
 void powerSet(int arr[],int n){
     cout<<"{{},";
+    for(int i=0;i<n;i++){
+        for(int j=i;j<n;j++){
+            cout<<j;
+        }
+    }
     
 }
 
@@ -38,5 +43,7 @@ int main(){
         } else if(m==2){
             powerSet(arr,n);
             } else return 0;
+        
     } 
+    
 }

@@ -7,7 +7,7 @@
    [Ques 3](QUES&#32;3)        | Create a class RELATION, use Matrix notation to represent a relation. Include functions to check if a relation is reflexive, Symmetric, Anti-symmetric and Transitive. Write a Programto use this class.
    [Ques 4](QUES&#32;4)        | Use the functions defined in Ques 3 to find check whether the given relation is:<br/>a) Equivalent, or<br/>b) Partial Order relation, or<br/>c) None
    [Ques 5](QUES5.cpp)        | Write a Program to generate the Fibonacci Series using recursion.
-   [Ques 6](QUES&#32;6)        | Write a Program to implement Tower of Hanoi using recursion.
+   [Ques 6](QUES6)        | Write a Program to implement Tower of Hanoi using recursion.
    [Ques7](QUES7.cpp)        | Write a Program to implement binary search using recursion.
    [Ques 8](QUES&#32;8)        | Write a Program to implement Bubble Sort. Find the number of comparisons during each pass and display the intermediate result.Use the observed values to plot a graph to analyse the complexity of algorithm.
    [Ques 9](QUES&#32;9)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observedvalues to plot a graphto analyse the complexity of algorithm.

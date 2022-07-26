@@ -1,7 +1,3 @@
-# CPP-FILE
-
-File of Discrete Structure of I year II semester.
-
 ## Practical List
 
    Question No.   | Question

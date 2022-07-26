@@ -11,7 +11,7 @@
    [Ques 7](QUES7.cpp)        | Write a Program to implement binary search using recursion.
    [Ques 8](QUES8.cpp)        | Write a Program to implement Bubble Sort. Find the number of comparisons during each pass and display the intermediate result.Use the observed values to plot a graph to analyse the complexity of algorithm.
    [Ques 9](QUES&#32;9)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observedvalues to plot a graphto analyse the complexity of algorithm.
-   [Ques 10](QUES&#32;10)       | Write a Program that generates all the permutations of a given set of digits, with or without repetition. (For example, if the given set is {1,2}, the permutations are 12 and 21). (One method is given in Liu)
+   [Ques 10](QUES&#32;10)       | Write a Program that generates all the permutations of a given set of digits, with or without repetition. (For example, if the given set is {1,2}, the permutations are 12 and 21). 
    [Ques 11](QUES11.cpp)       | Write a Program to calculate Permutation and Combination for an input value nand r using recursive formula of  nCr and nPr.
    [Ques 12](QUES&#32;12)       | For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + ...+ xn=  C,  where  C  is  a  constant  (C<=10)  and x1,  x2,x3,...,xn are  non-negative  integers using  brute force strategy.
    [Ques 13](QUES&#32;13)       | Write a Programto accept the truth values of variables x and y, and print the truth table of the following logical operations:<br/>a) Conjunction&emsp;&emsp;&emsp;&emsp;f) Exclusive NOR<br/>b) Disjunction&emsp;&emsp;&emsp;&emsp; g) Negation<br/>c) Exclusive OR&emsp;&emsp;&emsp;&emsp;h) NAND<br/>d) Conditional &emsp;&emsp;&emsp;&emsp;i) NOR<br/>e) Bi-conditional
@@ -19,7 +19,7 @@
    [Ques 15](QUES15.cpp)       | Write  a  Program to  store  a  function  (polynomial/exponential), and  then  evaluate  the polynomial. (For example store f(x) = 4n^3+ 2n + 9 in an array and for a given value of n, say n = 5, evaluate (i.e. compute the value of f(5)).
    [Ques 16](QUES&#32;16)       | Write  a  Program to  represent  Graphs  using  the  Adjacency  Matrices  and  check  if  it  is  a complete graph.
    [Ques 17](QUES&#32;17)       | Write a Program to accept a directed graph G and compute the in-degree and out-degree of each vertex.
-   [Ques 18](QUES&#32;18)       | Given a  graph  G, Write  a  Program to  find  the  number  of  paths  of  length nbetween  the source and destination entered by the user.
+   [Ques 18](QUES&#32;18)       | Given a  graph  G, Write  a  Program to  find  the  number  of  paths  of  length n between  the source and destination entered by the user.
    [Ques 19](QUES&#32;19)       | Given  an  adjacency  matrix  of  a  graph,  write  a  program  to check  whether  a  given  set  of vertices {v1, v2, v3....., vk} forms an Euler path/ Euler Circuit (for circuit assume vk=v1).
    [Ques 20](QUES20.cpp)       | Given a full m-ary tree with iinternal vertices, Write a Program to find the number of leaf nodes.
 

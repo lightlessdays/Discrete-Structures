@@ -1,5 +1,6 @@
 /* Write a Program to create a SET A and determine the cardinality of SET for an input array of elements (repetition allowed) and perform the following operations on the SET: a) ismember (a, A): checkwhether an element belongs to set or not and return value as true/false. b) powerset(A): list all the elements of power set of A. */ 
 #include<iostream> 
+#include<math.h>
 using namespace std; 
 bool isMember(int element,int arr[],int n){ 
     for(int i=0;i<n;i++){ 
@@ -8,9 +9,24 @@ bool isMember(int element,int arr[],int n){
     return false; 
 } 
 
-void powerSet(int arr[],int n){
-
-    
+void powerSet(int arr[], int n){    
+    int snum = 0;
+    cout<<"{";
+    while(snum<pow(2,n)){
+        cout<<"{";
+        for(int i=0;i<n;++i){
+            // the following condition checks
+            // if the ith bit of snum in binary form
+            // is 1 or not
+            if((snum&(1<<i))!=0){
+                cout<<arr[i]<<',';
+            }
+        }
+        cout<<"},";
+        ++snum;
+    }
+    cout<<"}";
+            
 }
 
 int main(){ 
@@ -37,7 +53,8 @@ int main(){
             cout<<isMember(m,arr,n)<<endl; 
         } else if(m==2){
             powerSet(arr,n);
-            } else return 0;
+            } 
+        else return 0;
         
     } 
     

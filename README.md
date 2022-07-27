@@ -2,15 +2,15 @@
 
    Question No.   | Question
 :---------------:| -------------
-   [Ques 1](QUES1.cpp)        | Write a Program to create a SET A and determine the cardinality of SET for an input array of elements (repetition allowed) and perform the following operations on the SET:<br/>a) ismember (a, A): check whether an element belongs to set or not and return value as true/false.<br/>b) powerset(A): list all the elements of power set of A.
-   [Ques 2](QUES2.cpp)        | Create  a  class  SET  and take  two  sets  as  input  from  user  to perform following  SET Operations:<br/>a) Subset: Check whether one set is a subset of other or not.<br/>b) Union and Intersection of two Sets.<br/>c) Complement: Assume Universal Set as per the input elements from the user.<br/>d) Set Differenceand Symmetric Difference between two SETS.<br/>e) Cartesian Product of Sets.
-   [Ques 3](QUES3.cpp)        | Create a class RELATION, use Matrix notation to represent a relation. Include functions to check if a relation is reflexive, Symmetric, Anti-symmetric and Transitive. Write a Program to use this class.
-   [Ques 4](QUES4.cpp)        | Write a program to check whether the given relation is:<br/>a) Equivalent, or<br/>b) Partial Order relation, or<br/>c) None
-   [Ques 5](QUES5.cpp)        | Write a Program to generate the Fibonacci Series using recursion.
-   [Ques 6](QUES6.cpp)        | Write a Program to implement Tower of Hanoi using recursion.
-   [Ques 7](QUES7.cpp)        | Write a Program to implement binary search using recursion.
-   [Ques 8](QUES8.cpp)        | Write a Program to implement Bubble Sort. Find the number of comparisons during each pass and display the intermediate result.Use the observed values to plot a graph to analyse the complexity of algorithm.
-   [Ques 9](QUES9.cpp)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observedvalues to plot a graphto analyse the complexity of algorithm.
+   [Ques 1](QUES01.cpp)        | Write a Program to create a SET A and determine the cardinality of SET for an input array of elements (repetition allowed) and perform the following operations on the SET:<br/>a) ismember (a, A): check whether an element belongs to set or not and return value as true/false.<br/>b) powerset(A): list all the elements of power set of A.
+   [Ques 2](QUES02.cpp)        | Create  a  class  SET  and take  two  sets  as  input  from  user  to perform following  SET Operations:<br/>a) Subset: Check whether one set is a subset of other or not.<br/>b) Union and Intersection of two Sets.<br/>c) Complement: Assume Universal Set as per the input elements from the user.<br/>d) Set Differenceand Symmetric Difference between two SETS.<br/>e) Cartesian Product of Sets.
+   [Ques 3](QUES03.cpp)        | Create a class RELATION, use Matrix notation to represent a relation. Include functions to check if a relation is reflexive, Symmetric, Anti-symmetric and Transitive. Write a Program to use this class.
+   [Ques 4](QUES04.cpp)        | Write a program to check whether the given relation is:<br/>a) Equivalent, or<br/>b) Partial Order relation, or<br/>c) None
+   [Ques 5](QUES05.cpp)        | Write a Program to generate the Fibonacci Series using recursion.
+   [Ques 6](QUES06.cpp)        | Write a Program to implement Tower of Hanoi using recursion.
+   [Ques 7](QUES07.cpp)        | Write a Program to implement binary search using recursion.
+   [Ques 8](QUES08.cpp)        | Write a Program to implement Bubble Sort. Find the number of comparisons during each pass and display the intermediate result.Use the observed values to plot a graph to analyse the complexity of algorithm.
+   [Ques 9](QUES09.cpp)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observedvalues to plot a graphto analyse the complexity of algorithm.
    [Ques 10](QUES10.cpp)       | Write a Program that generates all the permutations of a given set of digits, with or without repetition. (For example, if the given set is {1,2}, the permutations are 12 and 21). 
    [Ques 11](QUES11.cpp)       | Write a Program to calculate Permutation and Combination for an input value nand r using recursive formula of  nCr and nPr.
    [Ques 12](QUES12.cpp)       | For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + ...+ xn=  C,  where  C  is  a  constant  (C<=10)  and x1,  x2,x3,...,xn are  non-negative  integers using  brute force strategy.

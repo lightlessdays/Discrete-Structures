@@ -10,7 +10,7 @@
    [Ques 6](QUES06.cpp)        | Write a Program to implement Tower of Hanoi using recursion.
    [Ques 7](QUES07.cpp)        | Write a Program to implement binary search using recursion.
    [Ques 8](QUES08.cpp)        | Write a Program to implement Bubble Sort. Find the number of comparisons during each pass and display the intermediate result.Use the observed values to plot a graph to analyse the complexity of algorithm.
-   [Ques 9](QUES09.cpp)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observedvalues to plot a graphto analyse the complexity of algorithm.
+   [Ques 9](QUES09.cpp)        | Write a Program to implement Insertion Sort. Find the number of comparisons during each pass and display the intermediate result. Use the observed values to plot a graphto analyse the complexity of algorithm.
    [Ques 10](QUES10.cpp)       | Write a Program that generates all the permutations of a given set of digits, with or without repetition. (For example, if the given set is {1,2}, the permutations are 12 and 21). 
    [Ques 11](QUES11.cpp)       | Write a Program to calculate Permutation and Combination for an input value nand r using recursive formula of  nCr and nPr.
    [Ques 12](QUES12.cpp)       | For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + ...+ xn=  C,  where  C  is  a  constant  (C<=10)  and x1,  x2,x3,...,xn are  non-negative  integers using  brute force strategy.

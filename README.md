@@ -1,5 +1,3 @@
-## Practical List 
-
    Question No.   | Question
 :---------------:| -------------
    [Ques 1](QUES01.cpp)        | Write a Program to create a SET A and determine the cardinality of SET for an input array of elements (repetition allowed) and perform the following operations on the SET:<br/>a) ismember (a, A): check whether an element belongs to set or not and return value as true/false.<br/>b) powerset(A): list all the elements of power set of A.

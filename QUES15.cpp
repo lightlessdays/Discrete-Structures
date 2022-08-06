@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 
-/* declare structure for polynomial */
+/* declare structure for polynomial */ 
 struct poly
 {
  int coeff;

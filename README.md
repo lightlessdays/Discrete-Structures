@@ -19,5 +19,5 @@
    [Ques 17](QUES17.cpp)       | Write a Program to accept a directed graph G and compute the in-degree and out-degree of each vertex.
    [Ques 18](QUES18.cpp)       | Given a  graph  G, Write  a  Program to  find  the  number  of  paths  of  length n between  the source and destination entered by the user.
    [Ques 19](QUES19.cpp)       | Given  an  adjacency  matrix  of  a  graph,  write  a  program  to check  whether  a  given  set  of vertices {v1, v2, v3....., vk} forms an Euler path/ Euler Circuit (for circuit assume vk=v1).
-   [Ques 20](QUES20.cpp)       | Given a full m-ary tree with iinternal vertices, Write a Program to find the number of leaf nodes.
+   [Ques 20](QUES20.cpp)       | Given a full m-ary tree with i internal vertices, Write a Program to find the number of leaf nodes.
 
